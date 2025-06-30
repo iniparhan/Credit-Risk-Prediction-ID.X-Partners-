@@ -1,1 +1,1 @@
-# Credit-Risk-Prediction-ID.X-Partners-
+# Credit-Risk-Prediction-IDX-Partners
